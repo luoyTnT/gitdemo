@@ -11,10 +11,12 @@ class GitOneApplicationTests {
         System.out.println("this one");
     }
 
+    @Test
     void contextLoads2(){
         System.out.println("test");
     }
 
+    @Test
     void contextLoads3(){
         System.out.println("this test2");
     }
