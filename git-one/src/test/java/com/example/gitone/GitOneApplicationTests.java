@@ -21,4 +21,9 @@ class GitOneApplicationTests {
         System.out.println("this test2");
     }
 
+    @Test
+    void contextLoads4(){
+        System.out.println("test rebase");
+    }
+
 }
