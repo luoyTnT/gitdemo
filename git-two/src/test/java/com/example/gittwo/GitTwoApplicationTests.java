@@ -10,6 +10,8 @@ class GitTwoApplicationTests {
     void contextLoads() {
         System.out.println("this two");
         System.out.println("test two");
+
+        System.out.println("now is branch one");
     }
 
 }
