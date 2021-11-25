@@ -12,6 +12,8 @@ class GitTwoApplicationTests {
         System.out.println("test two");
 
         System.out.println("now is branch one");
+
+        System.out.println("now is three");
     }
 
 }
