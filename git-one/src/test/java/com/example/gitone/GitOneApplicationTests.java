@@ -8,6 +8,7 @@ class GitOneApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("this one");
     }
 
 }
