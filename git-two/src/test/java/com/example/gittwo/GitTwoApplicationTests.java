@@ -9,6 +9,7 @@ class GitTwoApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("this two");
+        System.out.println("test two");
     }
 
 }
