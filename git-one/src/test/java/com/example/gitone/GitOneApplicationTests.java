@@ -14,6 +14,7 @@ class GitOneApplicationTests {
     @Test
     void contextLoads2(){
         System.out.println("test222222222222222222222222");
+        System.out.println("test1111111111111111111111");
     }
 
     @Test
