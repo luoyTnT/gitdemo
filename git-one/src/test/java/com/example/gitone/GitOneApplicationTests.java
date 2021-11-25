@@ -11,4 +11,8 @@ class GitOneApplicationTests {
         System.out.println("this one");
     }
 
+    void contextLoads2(){
+        System.out.println("this test2");
+    }
+
 }
