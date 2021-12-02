@@ -6,6 +6,7 @@ public class test3 {
         System.out.println("test three");
         System.out.println("test two");
         System.out.println("test one");
+        System.out.println("test finish");
     }
 
 }
