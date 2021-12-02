@@ -9,4 +9,8 @@ public class test3 {
         System.out.println("test finish");
     }
 
+    void test002(){
+        System.out.println("test 2");
+    }
+
 }
