@@ -27,4 +27,16 @@ class GitOneApplicationTests {
         System.out.println("test rebase");
     }
 
+    @Test
+    void test1(){
+        int i1 = 1;
+        Integer i2 = 2;
+        Integer i3 = new Integer(3);
+
+        i1 = i3;
+        i3 = i1;
+        i2 = i1;
+        System.out.println(i3);
+    }
+
 }
